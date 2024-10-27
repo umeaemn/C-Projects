@@ -1,2 +1,12 @@
-# C-Projects
-Write a C++ program to display the following output:
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    cout << "***********" << endl;
+
+    cout << "HELLO WORLD!" << endl;
+
+    cout << "***********";
+        return 0;
+}
